@@ -9,7 +9,9 @@ t.me/origami1024
 github.com/origami1024
 
 ### My skills
-HTML, CSS, JavaScript, Bootstrap, JQuery, responsive design, English B2
+Good: HTML, CSS, JavaScript, English B2
+Average: Bootstrap, JQuery,
+A bit bad: git, responsive design
 
 ### My work experience
 I have not had a job in web development.

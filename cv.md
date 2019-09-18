@@ -1,17 +1,27 @@
 ## Resume
 
 ### General and contact info
-Nikita Kutuzov,
+Nikita Kutuzov.
 Russia, Crimea, Simferopol
-+7 978 XXX XX XX
-origami1024@gmail.com
-t.me/origami1024
-github.com/origami1024
+
+[Tel](+7 978 XXX XX XX)
+[Email](origami1024@gmail.com)
+[Telegram](http://t.me/origami1024)
+[GitHub](http://github.com/origami1024)
+
 
 ### My skills
-Good: HTML, CSS, JavaScript, English B2
-Average: Bootstrap, JQuery,
-A bit bad: git, responsive design
+Good: 
+1. HTML, 
+2. CSS, 
+3. JavaScript, 
+4. English B2
+Average: 
+1. Bootstrap, 
+2. JQuery,
+A bit bad: 
+1. git, 
+2. responsive design
 
 ### My work experience
 I have not had a job in web development.
